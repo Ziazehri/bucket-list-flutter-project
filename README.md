@@ -1,4 +1,7 @@
 # 📝 Bucket List - Flutter App
+## Concepts used 
+  - API Integration
+  - UI design 
 
 A **Flutter app** to create and manage bucket list goals using **Firebase Realtime Database**. Users can add, view, and track their goals with images and costs. The app features **Dio HTTP client**, error handling, and pull-to-refresh for a smooth experience.
 
